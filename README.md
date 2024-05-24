@@ -7,13 +7,13 @@ Welcome to the 2D Line Drawing Algorithms repository! This project implements fu
 
 # Objective
 
-The main goal of this project is to create primitive types in 2D space, focusing on points and lines. You will develop three line-drawing algorithms covered in lectures:
+The main goal of this project is to create primitive types in 2D space, focusing on points and line-drawing algorithms:
 
 1. Bresenham's Line Algorithm.
 2. Midpoint Line Algorithm.
 3. Parametric Line Algorithm.
 
-# Key Features
+# Key Features to Achieve full implementation:
 
 - Back Buffer Management: Set up a back buffer and clear it to a specified color, ensuring a fresh drawing surface for each render cycle.
   
